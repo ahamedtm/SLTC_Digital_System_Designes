@@ -11,6 +11,7 @@ if below condition has occurred.
 **Design a 4bit full adder using verilog**
 
 Used Verilog language 
+
 Testbench to verify the design
 
 **Design an inventory management database**
