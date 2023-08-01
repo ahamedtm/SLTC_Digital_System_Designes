@@ -9,6 +9,7 @@ if below condition has occurred.
 4. Blink led_2 if you detect more than 4 occurring of 00 pattern.
 
 **Design a 4bit full adder using verilog**
+
 Used Verilog language 
 Testbench to verify the design
 
